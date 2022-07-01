@@ -1,0 +1,6 @@
+{
+	"appId": "android.debug2.app2",
+	"appName": "SecondIonic",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
